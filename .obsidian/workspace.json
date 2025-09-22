@@ -209,16 +209,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT306/lecture 5.md",
+                "file": "KIN300/lecture 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "lecture 5"
             }
+          },
+          {
+            "id": "e65ba3dd925af9db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KIN300/test 1 review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test 1 review"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       },
       {
         "id": "0db57ad4ec792d0d",
@@ -341,7 +355,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5062494277954
+    "width": 392.5062494277954,
+    "collapsed": true
   },
   "right": {
     "id": "3734b0a1c4beeb24",
@@ -427,15 +442,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8a53f3a9ab7bc81",
+  "active": "e65ba3dd925af9db",
   "lastOpenFiles": [
+    "CENS404/lecture 5.md",
+    "KIN300/test 1 review.md",
+    "KIN300/lecture 5.md",
+    "STAT306/lecture 5.md",
     "MATH360/Homework/~$mmunication Assignment.docx",
     "MATH360/Homework/Communication Assignment.docx",
     "STAT306/lecture 4.md",
-    "STAT306/lecture 5.md",
     "MATH360/lecture 4.md",
     "MATH360/lecture 2.md",
-    "CENS404/lecture 5.md",
     "MATH360/python_lectures/Lecture_5_2025W1.ipynb",
     "CENS404/lecture 4.md",
     "KIN300/KIN300.md",
@@ -444,7 +461,6 @@
     "MATH360/python_lectures/Lecture_4_2025W1.ipynb",
     "MATH360/python_lectures",
     "MATH360/notbook_lectures",
-    "KIN300/lecture 5.md",
     "MATH360/attachments/Pasted image 20250915153600.png",
     "MATH360/attachments/Pasted image 20250915151922.png",
     "MATH360/attachments",
@@ -456,7 +472,6 @@
     "KIN300/lecture 3.md",
     "KIN300/lecture 2.md",
     "KIN300/lecture 1.md",
-    "MATH360/Homework/assignment0.ipynb",
     "CENS404/lecture 1.md",
     "CENS404/CENS404.md",
     "MATH360/lecture 1.md",
