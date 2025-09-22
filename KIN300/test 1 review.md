@@ -115,3 +115,80 @@ the guidelines state
 - break up long periods of sitting
 
 an *exercise snack* is some sort of *intense burst of activity* for about 1-5 min at a time
+
+*fitness* is the ability to carry out daily tasks with vigor and alertness without undue fatigue and with ample energy to enjoy pursuits
+
+*physical fitness* is operationalized as a set of **measurable health and skill-related attributes** that allows the body to respond or adapt to the demands and stress of physical effort
+
+**health components of fitness**
+- cardiorespiratory endurance: measure of circulatory and respiratory systems to provide fuel during sustained PA
+- strength: the amount of force a muscle can exert
+- muscle endurance: the duration a muscle can exert a force either holding or continuous
+- flexibility: ability to move joints through their full range of motion
+- body composition: proportion of fat vs. fat-free mass
+
+cardio endurance relies on:
+- lungs to get air $O_{2}$
+- heart to pump blood
+- blood vessels to hold $O_{2}$ and nutrients
+- muscles to utilize the $O_{2}$ and nutrients
+
+strength is just the max amount of weight you can lift
+- measured by a 1 rep max
+- could also estimate the 1 rep max as
+$$
+1RM = weight\times(1.0278 - (0.0278 \times reps))
+$$
+muscular endurance is just the ability to maintain high-intensity on repetitive or static exercise
+- usually activity of 1-2 min duration
+- involve the fast twitch muscle fibers
+- relies on anaerobic capacity 
+
+flexibility is the ability to move the joints through their full range of motion, relies on
+- joint structure
+- connective tissue
+- nervous system activity
+can be improved with regular stretching, and proprioceptive neuromuscular activity
+
+**skill related physical fitness**
+- power: power is just a combination of strength and speed 
+- agility: the ability to rapidly change position of the body with speed and accuracy
+- speed: the ability the perform a movement quickly
+- coordination: the ability to use the senses together with motor commands to perform tasks smoothly and accurately
+- reaction time: the ability to respond or react quickly to a stimulus
+- balance: the ability to maintain equilibrium while moving or while stationary
+
+**measuring fitness**
+1. lab based measures
+2. questionnaires
+3. home-based, "simple" clinical tests
+
+cardio endurance assessments:
+- gold standard is VO$_{2}$ max test, uses a CPET
+	- treadmill or bicycle ergometer (target large muscles)
+	- metabolic cart (measures concentration of $O_{2}$ and $CO_{2}$ of inhaled and exhaled air)
+
+graded exercise protocol intensity progressively increased until $VO_{2}$ plateaus or exhaustion
+
+tldr: measures how much oxygen you use
+
+its based on *size* of muscles used so if an athlete uses more muscles (cross country skiing) compared to others they would technically have a higher *VO*$_{2}$ max.
+
+there are also formulas that estimate maximal oxygen uptake
+
+*Heart Rate Recovery (HRR)* is the change in heart rate after cessation of exercise over a given duration
+
+can be used to indicate changes in fitness
+- athletes: HR dropped by 23 bpm after 1 min of rest
+- average person: HR drop by 15-25 after 1 min of rest
+
+trained individuals have more parasympathetic tone
+- a lower heart rate at the end of an exercise
+
+there is a linear relationship between *VO2* and *HR* during sub-maximal exercise. 
+- as VO2 goes up, so does the HR
+- makes sense as you suck in more air your hearts gotta beat faster to pump it throughout ur body
+
+if you are more fit, it means that your heart doesn't have to pump as hard to deliver the oxygen you are consuming, thus lower HR
+
+the study of *grip* strength is also used for general fitness because we do alot of work with our hands. 

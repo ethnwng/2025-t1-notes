@@ -355,8 +355,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5062494277954,
-    "collapsed": true
+    "width": 392.5062494277954
   },
   "right": {
     "id": "3734b0a1c4beeb24",
@@ -444,6 +443,7 @@
   },
   "active": "e65ba3dd925af9db",
   "lastOpenFiles": [
+    "KIN300/Untitled.md",
     "CENS404/lecture 5.md",
     "KIN300/test 1 review.md",
     "KIN300/lecture 5.md",
@@ -482,7 +482,6 @@
     "MATH312/lecture 30.md",
     "MATH312/lecture 27.md",
     "MATH312/lecture 26.md",
-    "MATH312/lecture 24.md",
     "CPSC330/attachments/Pasted image 20250313160138.png",
     "CPSC330/attachments/Pasted image 20250311160456.png",
     "CPSC330/attachments/Pasted image 20250311155744.png",
