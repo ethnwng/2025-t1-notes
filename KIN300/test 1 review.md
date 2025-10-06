@@ -192,3 +192,10 @@ there is a linear relationship between *VO2* and *HR* during sub-maximal exercis
 if you are more fit, it means that your heart doesn't have to pump as hard to deliver the oxygen you are consuming, thus lower HR
 
 the study of *grip* strength is also used for general fitness because we do alot of work with our hands. 
+
+guest lecture:
+- how influential culture is to physical culture as a manifestation of how we are socializzed
+- education vs schooling - impact of colonialist attitudes on this distinction on indigenous communities
+- examples of how government plicy affected indigenous way of life with respect to physical culture
+	- fishing bans, traditional ceremonies, residential schools
+	- 
