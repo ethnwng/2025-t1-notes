@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GERN304/test 1 review.md",
+                "file": "MATH360/lecture 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test 1 review"
+              "title": "lecture 5"
             }
           }
         ],
@@ -306,8 +306,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5062494277954,
-    "collapsed": true
+    "width": 392.5062494277954
   },
   "right": {
     "id": "3734b0a1c4beeb24",
@@ -395,6 +394,9 @@
   },
   "active": "f37e4e1f3132bb65",
   "lastOpenFiles": [
+    "MATH360/lecture 4.md",
+    "MATH360/lecture 2.md",
+    "MATH360/lecture 1.md",
     "GERN304/test 1 review.md",
     "GERN304/GERN304.md",
     "KIN300/KIN300.md",
@@ -429,9 +431,6 @@
     "CENS404/lecture 5.md",
     "STAT306/lecture 5.md",
     "STAT306/lecture 4.md",
-    "MATH360/lecture 4.md",
-    "MATH360/lecture 2.md",
-    "STAT306/lecture 3.md",
     "MATH360/attachments/Pasted image 20250915153600.png",
     "MATH360/attachments/Pasted image 20250915151922.png",
     "STAT306/attachments/Pasted image 20250908105820.png",
