@@ -10,3 +10,4 @@ main points
 - indigenous physical culture connects to land and independence
 - reimagine somethign
 - support indigenous
+- 

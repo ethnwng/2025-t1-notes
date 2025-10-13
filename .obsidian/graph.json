@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,28 +8,28 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:ECON310  ",
+      "query": "path:CENS404  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:CPSC330  ",
+      "query": "path:KIN300  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "path:ENGL110  ",
+      "query": "path:MATH360  ",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "path:MATH312  ",
+      "query": "path:STAT306",
       "color": {
         "a": 1,
         "rgb": 7757014
@@ -41,11 +41,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.15259068952967467,
+  "scale": 0.6966595296071498,
   "close": true
 }

@@ -90,4 +90,4 @@ There are *3* muscle fibre types
 
 
 **type I**
-- they are the (smal)
+- they are the (small)
