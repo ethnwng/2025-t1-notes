@@ -4,5 +4,5 @@
   "alwaysUpdateLinks": true,
   "vimMode": true,
   "showLineNumber": true,
-  "readableLineLength": true
+  "readableLineLength": false
 }
