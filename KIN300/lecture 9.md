@@ -11,7 +11,6 @@ each have their own mechanism
 - endurance capacity : metabolic pathway: (aerobic, anaerobic)
 
 
-
 contraction cycle
 - release calcium from the sarcolemma
 - calcium binds to the troponin and creates the the cross-bridge reaction(myosin-actin binding)

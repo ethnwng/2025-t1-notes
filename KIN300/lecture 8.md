@@ -14,7 +14,18 @@ the *thin filaments* are then made up of
 - actin
 - tropomyosin
 - troponin
-##### muscle metabolism
+
+### cross bridge cycle
+1. calcium is released (from the sarcoplasm) allowing for *actin* to bind to the *myosin*
+2. myosin uses *ADP* energy to bind to the actin forming the *cross-bridge*
+3. thick filament heads pull the thin filaments, *power stroke*
+4. *ATP* is then used which unbinds the *myosin*
+then the cycle repeats
+
+the **more** cross-bridges you have the **stronger** the contraction
+- makes sense, more cross-bridges mean more power strokes
+
+### muscle metabolism
 - ATP is the fuel for the cross-bridge / contraction cycle
 
 how do muscles derive the ATP necessary to power the contraction?
@@ -88,6 +99,42 @@ There are *3* muscle fibre types
 - Type IIa: fast oxidative-glycolytic fibre
 - Type IIx: fast glycolytic fibres
 
+each fiber type has three components
+1. tension: amount of fore outputted
+2. fatigability: required amount of ATP
+3. speed of contraction: determined by the speed of cross bridge formations
 
-**type I**
-- they are the (small)
+**Type I (SO):**
+1. tension
+	- the smallest in diameter
+	- *low force output*
+2. fatigability
+	- high capacity for aerobic activity
+	- fatigue resistant *high endurance*
+3. speed of contraction
+	- the speed that we can use ATP is what determines this step
+	- this type of fiber *has slow contraction* 
+
+**Type IIb/IIx (FG):**
+1. tension
+	- large diameter
+	- *high force output*
+2. fatigability
+	- easily fatigued
+	- *low endurance*
+3. speed of contraction
+	- this fiber hydrolyze's ATP fast so
+	- *fast contraction*
+so they output high force and contract quickly (good power)
+
+**Type IIa FOG:**
+1. tension
+	- somewhere in between type I and type IIb
+	- better than SO worse than FG
+2. fatigability
+	- similarly, between type I and type IIb
+	- worse than SO better than FG
+3. speed
+	- not as slow as SO not as as fast as FG
+
+

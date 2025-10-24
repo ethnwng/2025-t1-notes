@@ -1,5 +1,8 @@
 [[KIN300]]
 
+
+### all of this is in [[KIN300/lecture 6|lecture 6]]
+
 *sarcomeres* have an organization of thick and thin filaments in an alternating like pattern.
 - Each row is connected with a protein disc
 - each sarcomere is separated by these discs

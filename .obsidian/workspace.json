@@ -1,68 +1,401 @@
 {
   "main": {
-    "id": "6feff6f0d22e274b",
+    "id": "922f0705cbcf6c13",
     "type": "split",
     "children": [
       {
-        "id": "d324507e93623d9b",
+        "id": "ae631585e0fb6c70",
         "type": "tabs",
+        "dimension": 49.79329352319706,
         "children": [
           {
-            "id": "db98e54553abecc3",
+            "id": "70b13c308b945f9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CENS404/Test 1 Review.md",
+                "file": "MATH360/lecture 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test 1 Review"
+              "title": "lecture 5"
             }
           },
           {
-            "id": "bb3679e574fbf707",
+            "id": "219136734b6f90f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CENS404/lecture 1.md",
+                "file": "STAT306/lecture 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 1"
+              "title": "lecture 6"
+            }
+          },
+          {
+            "id": "fd2934e6858dc078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH360/lecture 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 8"
+            }
+          },
+          {
+            "id": "1175352f0a39cb6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH360/lecture 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 8"
+            }
+          },
+          {
+            "id": "8525c30c5878e38e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT306/lecture 10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 10"
+            }
+          },
+          {
+            "id": "c464a8a416b9e18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH360/lecture 11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 11"
+            }
+          },
+          {
+            "id": "e70c651d293fcae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH360/lecture 12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 12"
+            }
+          },
+          {
+            "id": "baa1fe5647ec52b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT306/lecture 12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 12"
+            }
+          },
+          {
+            "id": "26698c1b915ffe03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT306/lecture 13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 13"
+            }
+          },
+          {
+            "id": "fd831ab8245b6393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT306/lecture 12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 12"
+            }
+          },
+          {
+            "id": "70cd73ce59bdb434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KIN300/lecture 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 9"
+            }
+          },
+          {
+            "id": "f1aedcfd93bb8225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CENS404/lecture 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 8"
+            }
+          },
+          {
+            "id": "5af88d755bd85cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH360/lecture 13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 13"
+            }
+          },
+          {
+            "id": "457eae1d7accf5cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH360/lecture 14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 14"
             }
           }
-        ]
+        ],
+        "currentTab": 13
+      },
+      {
+        "id": "0db57ad4ec792d0d",
+        "type": "tabs",
+        "dimension": 50.20670647680294,
+        "children": [
+          {
+            "id": "d562daef54d1dd13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KIN300/KIN300.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KIN300"
+            }
+          },
+          {
+            "id": "e6bc8f18659a4fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CENS404/lecture 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 4"
+            }
+          },
+          {
+            "id": "4a8c5555741586c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CENS404/lecture 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 5"
+            }
+          },
+          {
+            "id": "aef34b26002979c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KIN300/lecture 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 6"
+            }
+          },
+          {
+            "id": "de99f1921a04aa90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KIN300/lecture 12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 12"
+            }
+          },
+          {
+            "id": "c19e132d53b3f947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KIN300/lecture 14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 14"
+            }
+          },
+          {
+            "id": "af81d5838734a2e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CENS404/lecture 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 6"
+            }
+          },
+          {
+            "id": "5b01e4b3fd65f6be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KIN300/lecture 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 5"
+            }
+          },
+          {
+            "id": "77a47a10a1684f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KIN300/lecture 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 6"
+            }
+          },
+          {
+            "id": "943aca0588bf086d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KIN300/lecture 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 7"
+            }
+          },
+          {
+            "id": "5364479179bd032d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KIN300/lecture 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 9"
+            }
+          },
+          {
+            "id": "ade5e226b843937e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KIN300/lecture 11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 11"
+            }
+          }
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2336817089c9bf16",
+    "id": "6785b918dd5c7176",
     "type": "split",
     "children": [
       {
-        "id": "b13eaad49c6da8e4",
+        "id": "0dd1cb348603ccf6",
         "type": "tabs",
         "children": [
           {
-            "id": "3fbac4a3e9d92616",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "cefaf14b03c0bfa7",
+            "id": "eb5dabe0f4d2edf5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +412,20 @@
             }
           },
           {
-            "id": "7e585cae1576c94e",
+            "id": "9a7a38920cb8c426",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe1f548994a26e5f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,28 +434,44 @@
               "title": "Bookmarks"
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "08ea3d7e1750a609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da3b84b1e9d3796b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 392.5062494277954
   },
   "right": {
-    "id": "cc4f9ab0d8ca48bd",
+    "id": "3734b0a1c4beeb24",
     "type": "split",
     "children": [
       {
-        "id": "7e1ab06c0121740d",
+        "id": "20be55eedfe27868",
         "type": "tabs",
         "children": [
           {
-            "id": "96b81a0a51969adb",
+            "id": "0d509eaf1b23ffc0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CENS404/Test 1 Review.md",
+                "file": "KIN300/lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,51 +481,46 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test 1 Review"
+              "title": "Backlinks for lecture 3"
             }
           },
           {
-            "id": "48e82db2a5a7582f",
+            "id": "a88aae3039880661",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CENS404/Test 1 Review.md",
+                "file": "ECON310/Chapter 4 Consumer and Producer Surplus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test 1 Review"
+              "title": "Outgoing links from Chapter 4 Consumer and Producer Surplus"
             }
           },
           {
-            "id": "c3612a5ac8b43cc1",
+            "id": "718deb715baa186e",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "0628ef61e183fe76",
+            "id": "e0ce236ec284838d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "CENS404/Test 1 Review.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "ECON310/Chapter 4 Consumer and Producer Surplus.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Test 1 Review"
+              "title": "Outline of Chapter 4 Consumer and Producer Surplus"
             }
           }
         ]
@@ -175,24 +532,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "bases:Create new base": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "db98e54553abecc3",
+  "active": "457eae1d7accf5cd",
   "lastOpenFiles": [
+    "MATH360/Homework/Modelling_Assignments/math360-modelling-a1-group/table.tpl",
+    "MATH360/Homework/Modelling_Assignments/math360-modelling-a1-group/formal-notebook.pdf.sb-253eb17f-AJu9ya",
+    "MATH360/Homework/Modelling_Assignments/math360-modelling-a1-group/table.png",
+    "MATH360/Homework/Modelling_Assignments/math360-modelling-a1-group/Screenshot_2025-10-23_at_8.00.10_PM.png",
+    "MATH360/Homework/Modelling_Assignments/math360-modelling-a1-group/formal-notebook.pdf",
+    "MATH360/python_lectures/post_lecture/formal-notebook.ipynb",
+    "MATH360/Homework/Modelling_Assignments/math360-modelling-a1-group/formal-notebook.html",
+    "MATH360/python_lectures/post_lecture/Lecture_9_post_2025W1.ipynb",
+    "MATH360/Homework/Modelling_Assignments/math360-modelling-a1-group/formal-notebook.ipynb",
+    "MATH360/Homework/formal-notebook.ipynb",
+    "MATH360/Homework/Modelling_Assignments/math360-modelling-a1-group/formal-notebook(1).ipynb",
+    "MATH360/lecture 13.md",
+    "MATH360/lecture 14.md",
+    "CENS404/lecture 9.md",
+    "MATH360/Homework/Modelling_Assignments/math360-modelling-a1-group/modelling-assignment-a1.ipynb",
     "CENS404/lecture 8.md",
-    "CENS404/Test 1 Review.md",
-    "cowboy.webp",
+    "KIN300/lecture 14.md",
+    "KIN300/lecture 12.md",
+    "MATH360/Homework/Modelling_Assignments/math360-modelling-a1-group/notebook.ipynb",
+    "MATH360/Homework/Modelling_Assignments/math360-modelling-a1-group/instructions.md",
+    "KIN300/lecture 8.md",
+    "MATH360/lecture 8.md",
+    "KIN300/lecture 9.md",
+    "KIN300/lecture 11.md",
+    "KIN300/lecture 6.md",
+    "STAT306/lecture 10.md",
+    "MATH360/lecture 11.md",
+    "MATH360/lecture 12.md",
+    "STAT306/lecture 12.md",
+    "STAT306/lecture 13.md",
+    "MATH360/Homework/Modelling_Assignments/math360-modelling-a1-group/README.md",
+    "GERN304/test 1 review.md",
+    "STAT306/lecture 11.md",
+    "STAT306/lecture 9.md",
+    "STAT306/lecture 8.md",
+    "KIN300/lecture 10.md",
+    "KIN300/lecture 7.md",
     "CENS404/lecture 6.md",
-    "CENS404/lecture 1.md",
-    "CENS404/lecture 7.md",
-    "KIN300/lecture 5 1.md",
-    "CENS404/lecture 4.md"
+    "cowboy.webp",
+    "MATH360/python_lectures/scipy_plot.png",
+    "STAT306/attachments/Pasted image 20250922110301.png",
+    "MATH360/attachments/Pasted image 20250915153600.png",
+    "MATH360/attachments/Pasted image 20250915151922.png",
+    "STAT306/attachments/Pasted image 20250908105820.png",
+    "CPSC330/attachments/Pasted image 20250313160138.png",
+    "CPSC330/attachments/Pasted image 20250311160456.png"
   ]
 }
