@@ -52,7 +52,6 @@ organization of the human body
 *muscles* connect to the *skeleton* and the *tension* creates force on our skeleton to create movement
 - the connection of the muscle to the skeleton is done with *tendons* (or connective tissues (?))
 
-
 **connective tissues components**
 - epimysium - around the whole muscle
 - endomysium - around a single cell

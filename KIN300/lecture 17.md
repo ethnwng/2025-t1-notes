@@ -15,20 +15,39 @@ another kind of *receptor* are along the tendon called *golgi tendon organs (gto
 - pain: hurting foot or something
 - stretch: dr hitting the knee with hammer to get it to flex out
 	- this happens when doctor hits the receptor 
+*pain withdrawal:*
+- input: pain (via pain receptors)
+- output: flexion on the pain side, extension on the other side
+
+*stretch reflex:*
+- input: muscle stretch (via muscle spindle)
+- output: skeletal muscle contraction (of the same muscle)
+
 
 These reflexes are controlled from our spinal cord, the brain does even have a response. 
 
 when theres pain all the muscles that control flexion retract and then everything else will contract
 
 **rhythmically generated movements**
+- many rhythmic movements reside in the brainstem
+	- walking, chewing, swallowing, eye movement
 - break brainstem then its gg
 
+**walking/locomotion**
+- our brain has an *automatic stepping function* as studies shown using babies can be taught to walk just by feeling
+- phases of locomotion:
+	- left <-> right
+	- swing (flexion) <-> stance (extension) (place foot step off foot)
+
+*reflexes senses in locomotion*
 we are so smart that some responses only happen in certain scenarios
 - tripping reflex only occurs when our foot is not on the floor
 
-*walking = locomotion*
+when we are walking regularly there are lots of reflex responses that help control muscle activation during walking
+- *stretch (lengthening) of hip flexors muscles*, activates muscle spindles in the hip flexor muscles -> signals that we should switch stance to swing phase
+- *loading of postural muscles (e.g calf)* activates golgi tendon organs -> increases muscle activity in extensor muscles to ensure we maintain an upright stance
+the main idea is that *muscles/sensory receptors in muscles* help control the timing of gait events
 
-**motor cortex** is used when accuracy is invovled
+**motor cortex/brain** is used when accuracy is involved
 - walking down stairs
-- 
 

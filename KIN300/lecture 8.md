@@ -71,7 +71,7 @@ then
 $$
 \text{glucose} \to \text{break down through glycolysis: +2 ATP} \to \text{pyruvic/pyruvate acid} \to \text{lactic acid} \to \text{into blood}
 $$
-b 
+ 
 - lactic acid can be converted into glucose 
 - can be used in $O_{2}$ consuming reactions
 - can power ~2-3 minutes of all out activity
@@ -136,5 +136,3 @@ so they output high force and contract quickly (good power)
 	- worse than SO better than FG
 3. speed
 	- not as slow as SO not as as fast as FG
-
-

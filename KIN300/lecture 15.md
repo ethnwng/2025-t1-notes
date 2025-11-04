@@ -26,14 +26,34 @@ supplements are used for high performance athletes but for ordinary people its k
 - athletes can take a substance they think is legal but hes actually getting roids
 - regulated by *world anti doping agency*
 
+to be banned a drug has to meet two of three criteria:
+1. taking it must enhance or potentially enhance performance
+2. place an athlete's health at risk
+3. violate the spirit of the sport
+
 pretty much not as regulated as regular *pharmaceuticals*
 - up to the wording of their marketing
+
+**studies**
+looking at a bunch of different supplement companies they analyzed the ingredients in their product.
+- alot of them contained dangerous things
+- some of them contained undeclared banned substances
+
+**why do we take supplements**
+athletes specifically
+- manage a micronutrient deficit (iron)
+- supply of convenient forms of energy and macronutrients (protein powder)
+- benefit from performance (beta alanine)
+- for indirect benefits such as supporting intense training (creatine)
 
 **caffeine**
 - the most widely available and accepted drug used 
 - very specific amount used
 - 3-6 mg per kilo ~ 45 min before event
 - most of the time using tablets
+- passes the blood brain barrier (only legal substance to do so)
+- blocks adenosine receptors (adenosine promotes sleepiness)
+- stimulates the release of dopamine and norepinephrine, improves concentration and wakefulenss
 
 **caffeine effect**
 - decrease pain perception
