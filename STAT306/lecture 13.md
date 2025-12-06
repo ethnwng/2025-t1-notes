@@ -1,7 +1,7 @@
 [[STAT306]]
 
 #### Partial Correlation
-
+- Pretty much the correlation between two covariates
 
 #### Outliers
 - points that are far away from other points

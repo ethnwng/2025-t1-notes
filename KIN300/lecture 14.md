@@ -32,7 +32,7 @@ a study conducted where we feed people diets where we know the nitrogen intake t
 - 0.84 g/kg/day is the 2nd standard deviation to keep the nitrogen balance
 
 
-*protien* does not affect the increase in *strength* that much
+*protine* does not affect the increase in *strength* that much
 
 regular food better than supplements
 

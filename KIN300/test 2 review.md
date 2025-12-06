@@ -60,5 +60,49 @@ if you want to hypertrophy you need to target the type II muscle fibers
 - cant just eat protein to get bigger muscles there is a maximum
 - 
 
+---
+trying to answer each learning objective for each lecture
 
+[[KIN300/lecture 6|lecture 6]]
+1. understand the overall function of muscles, and their properties of muscle  
+	- *muscles* can be either skeletal (move/support bones, exert force) also called striated
+	- *cardiac* muscle (like heart pumping)
+	- *smooth* muscle, internal, automatic movements (inside intestines and other stuff)
+	- muscles have the properties: electrically excitable, elastic, contractility, extensibility
+		- neurons can activate them (eletrically excitable)
+		- they return to their original form (elastic)
+		- can contract and extend (contractility and extensibility)
+2. understand the overall levels of organization of the human body  
+	- atoms form cells which together form tissue which forms organs which form systems 
+3. understand that muscles act on the skeletal structure ➔ basis for movement  
+	- muscles exert force on our skeleton to create movement
+4. describe the cellular components and structure of muscle fibers  
+	- a muscle is an organ
+		- muscle tissue is comprised of a bunch of different *fasicles*
+		- the outside of muscle tissue is called the *epimysium*
+		- the outside of an individual *fasicle* is called the *perimysium*
+		- the inside of each fasicle contains a bunch of muscle fibers/cells
+		- the space between the fibers/cells is called the endomysium
+		- each muscle fiber consists of a bunch of *myofibrils* made up of either a thick or thin filament
+5. describe the functional structure of sarcomeres  
+	- a sarcomere is a section of a myofibril that contains the overlapping of thick and thin filaments
+	- thick filaments are made of *myosin*
+	- thin filametnss are made of *actin, troponin, and tropomyosin*
+6. describe the intrinsic processes underlying muscle contraction (sliding  filament mechanism)
+	- troponin has 3 binding sites for calcium actin and tropomyosin, when it reacts with calcium it allows *actin* to bind with *myosin*
+	- ATP joins with myosin head which hydrolysizes into ADP and P, when the myosin binds with the actin the ADP and P release from the head and give the head energy to *generate the power stroke*
+	- ATP then joins with the myosin head again which causes it to release from the actin and rehydrolyzises to begin the process over again
+
+[[STAT306/lecture 8|lecture 8]]
+1. understand how muscle length can influence tension generation  
+	- a muscle can exert the most force when it is *lengthened* outh
+2. understand that the nervous system connects to muscle fibers via the neuromuscular junction
+3. define motor unit  
+	- a motor unit is all the neuromuscular junctions that a neuron connects to
+	- one neuron connects to many different NMJ therefore many different muscle fibers and in turn many different muscles
+4. understand that the nervous system can increase muscle tension in two ways:  
+	a. increasing motor neuron/motor unit firing frequency
+	- increasing the supply of calcium to elongate and boost the muscle twitch phases  
+	b. recruiting more motor units
+	- we recruit muscle fiber types in order. 
 
